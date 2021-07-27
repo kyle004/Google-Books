@@ -15,7 +15,6 @@
   ## Description
   Google Book search assignemnt for my bootcamp.
 
-![React Portfolio](src/assets/img/PortfolioIMG.png)
   ## License
   MIT
 
