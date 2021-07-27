@@ -28,7 +28,7 @@
   ## Questions
   Email Me: codingky@gmail.com
   
-  GitHub Profile: <https://github.com/kyle004/Google-Books>
+  GitHub Profile: <https://github.com/kyle004/
 
   ## Repository
   https://github.com/kyle004/Google-Books
